@@ -1,73 +1,60 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shakti%20Raj%20Devkota&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Data%20Analytics%20%7C%20Machine%20Learning&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shakti%20Raj%20Devkota&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BSc.CSIT%20Student%20%7C%20Tech%20Enthusiast%20%7C%20Bhaktapur%2C%20Nepal&descAlignY=55&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&width=500&lines=Turning+raw+data+into+actionable+insights;Building+predictive+models+with+Python+%26+ML;Exploring+statistics%2C+analytics+%26+visualization;Open+to+collaborate+on+data-driven+projects)](https://git.io/typing-svg)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=shaktidevkota&label=Profile+Views&color=38BDF8&style=for-the-badge)](https://github.com/shaktidevkota)
-[![Followers](https://img.shields.io/github/followers/shaktidevkota?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0F2027)](https://github.com/shaktidevkota?tab=followers)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&width=500&lines=Turning+raw+data+into+actionable+insights;Building+projects+that+solve+real+problems;Exploring+data+analytics+%26+visualization;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 ---
 
 ## About Me
 
-I am **Shakti Raj Devkota**, a BSc.CSIT student from Bhaktapur, Nepal with a strong focus on **Data Science**, **Data Analytics**, and **Machine Learning**. I enjoy working with real-world datasets, building predictive models, and communicating findings through clean visualizations.
+I am **Shakti Raj Devkota**, a BSc.CSIT student from Bhaktapur, Nepal. I enjoy working with data, building practical projects, and continuously improving my development skills.
 
-- Currently exploring **statistical modeling**, **EDA pipelines**, and **ML algorithms**
-- Interested in applying data science to solve meaningful, real-world problems
-- Comfortable working across the full data workflow — from raw data wrangling to visual storytelling
-- Open to collaborating on data-driven and open-source projects
+- Currently learning **Backend Development** and **Data Analytics**
+- Building projects using **Python**, **SQL**, **JavaScript**, and **React**
+- Interested in collaborative and open-source projects
+- Focused on improving problem-solving and development skills
 
 ---
 
 ## Technical Skills
 
-### Core Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Data Science & Machine Learning
+### Data & Analytics
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Web & Backend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Web & Backend
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Cloud & Tools
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## Current Focus
-
-| Area | Description |
-|---|---|
-| Exploratory Data Analysis | Uncovering patterns and trends in structured and unstructured datasets |
-| Predictive Modeling | Building and evaluating ML models using scikit-learn |
-| Data Visualization | Communicating insights with Matplotlib, Seaborn, and Tableau |
-| SQL & Database Analytics | Writing complex queries for business intelligence use cases |
-| Statistical Analysis | Applying statistical methods with Python and R |
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -77,10 +64,8 @@ I am **Shakti Raj Devkota**, a BSc.CSIT student from Bhaktapur, Nepal with a str
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaktidevkota&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktidevkota&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=ffffff&include_all_commits=true&count_private=true&langs_count=8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktidevkota&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=ffffff&count_private=true&langs_count=8" height="165" />
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaktidevkota&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8)](https://github.com/shaktidevkota)
 
 ---
 
