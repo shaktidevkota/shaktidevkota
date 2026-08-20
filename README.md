@@ -1,163 +1,101 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,50:2C5364,100:38BDF8&height=200&section=header&text=Shakti%20Raj%20Devkota&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20Data%20Engineer%20in%20training&descAlignY=62&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0000,100:8b0000&height=220&section=header&text=Shakti%20Raj%20Devkota&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSIT%20Student%20%7C%20Builder%20%7C%20Bhaktapur%2C%20Nepal&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Cleaning+messy+data+into+usable+signal;Building+ETL+pipelines+%26+SQL+data+models;Training+ML+models+that+actually+ship;Turning+dashboards+into+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=E60000&center=true&vCenter=true&width=650&lines=Building+things+with+Python%2C+SQL+%26+React;Curious+about+data%2C+models+%26+how+systems+work;Always+shipping+something%2C+always+learning" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakti-devkota-9705b2316)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaktidevkota)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zyxy.co)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaktidevkota0@gmail.com)
+<img src="https://img.shields.io/badge/status-online-black?style=for-the-badge&logo=none&logoColor=red&labelColor=000000&color=8b0000"/>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E60000)](https://linkedin.com/in/shakti-devkota-9705b2316)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E60000)](https://github.com/shaktidevkota)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E60000)](https://instagram.com/zyxy.co)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=E60000)](mailto:shaktidevkota0@gmail.com)
 
 </div>
 
 <br/>
 
-## Data Focus
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,100:000000&height=3&section=header" width="100%"/>
 
-```
-role       : Data Analytics · Data Science · Data Engineering (learning path)
-currently  : BSc.CSIT, 4th Semester — Bhaktapur Multiple Campus (Tribhuvan University)
-based_in   : Bhaktapur, Nepal
-core_loop  : collect → clean → model → visualize → ship
-```
+## About
 
-I work across the full data lifecycle — from writing SQL to wrangle raw tables, to engineering features for ML models, to shipping dashboards people actually read. Currently deepening my **data engineering** side (pipelines, database design, ETL) alongside analytics and applied ML.
+I'm a BSc.CSIT student at Bhaktapur Multiple Campus (Tribhuvan University), currently in my 4th semester. I like taking messy problems — raw data, buggy pipelines, half-working ideas — and turning them into something that actually works. I also work as a Web Design Facilitator at EduQuest.
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,100:000000&height=3&section=header" width="100%"/>
 
-## What I Build
+## Projects I've Built
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- **NEPSEInsight** — Nepal Stock Exchange analytics dashboard (Flask + Chart.js + Power BI report)
+- **Football Match Prediction System** — FastAPI backend with a rolling ML pipeline (Random Forest, Logistic Regression)
+- **DataNest** — end-to-end Titanic dataset project (EDA → feature engineering → modeling)
+- **NexaChat** — real-time chat app built with React Native/Expo + Firebase (Firestore, Auth)
+- **AVL Tree Visualizer** — interactive React app for visualizing tree rotations
+- **Traffic Intersection Simulation** — Kathmandu intersection modeled in Pygame and HTML/Canvas
+- **Portfolio v2** — Vite + React, Tailwind, Framer Motion, deployed on Vercel
 
-**📊 Data Analytics**
-- End-to-end SQL analysis projects (joins, CTEs, window functions, views)
-- Power BI + Chart.js dashboards for real-world datasets
-- NEPSE (Nepal Stock Exchange) analytics dashboard — Flask + Chart.js + Power BI
-
-</td>
-<td width="50%" valign="top">
-
-**🧠 Data Science / ML**
-- Full data science bootcamp: EDA → Feature Engineering → ML → Deep Learning
-- Titanic end-to-end project (DataNest)
-- Football match prediction system — FastAPI + rolling ML pipeline (Random Forest, Logistic Regression)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🛠️ Data Engineering (in progress)**
-- Relational database design & practical labs (MySQL / T-SQL)
-- Building and debugging deployment pipelines (Render, Vercel)
-- Structuring data projects for reproducibility (feature modules, schema design)
-
-</td>
-<td width="50%" valign="top">
-
-**💻 Software & Tools**
-- React/Vite portfolio with real backend integrations (EmailJS, env-based config)
-- AVL Tree Visualizer, simulations (Pygame/Canvas)
-- Real-time chat app with Firebase (Firestore + Auth)
-
-</td>
-</tr>
-</table>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,100:000000&height=3&section=header" width="100%"/>
 
 ## Tech Stack
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="33%">
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-<td valign="top" width="33%">
-
-**Data & ML**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**BI & Visualization**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-
+<th align="left">Languages</th>
+<td>
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=E60000"/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="33%">
-
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
+<th align="left">Frameworks & Libraries</th>
+<td>
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikit-learn&logoColor=E60000"/>
 </td>
-<td valign="top" width="33%">
-
-**Tools & Cloud**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
+</tr>
+<tr>
+<th align="left">Databases</th>
+<td>
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=E60000"/>
 </td>
-<td valign="top" width="33%">
-
-**Web**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
+</tr>
+<tr>
+<th align="left">Tools & Platforms</th>
+<td>
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoftexcel&logoColor=E60000"/>
 </td>
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,100:000000&height=3&section=header" width="100%"/>
 
-## GitHub Stats
+## Right Now
 
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=shaktidevkota&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktidevkota&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaktidevkota&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-## Currently Working On
-
-- 🔬 14-lab DBMS practicals — porting T-SQL to MySQL for use in MySQL Workbench
-- 🌐 Portfolio v2 (Vite + React) — contact form, project toggles, deployment polish
-- 🎓 OASIS InfoByte SIP internship — Data Science / Python / Data Analytics track
+- Working through a 14-lab DBMS practical course, converting T-SQL labs to MySQL
+- Polishing my portfolio (contact form, project toggles, deployment cleanup)
+- Taking part in the OASIS InfoByte SIP internship
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,50:2C5364,100:38BDF8&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0000,100:8b0000&height=120&section=footer"/>
 </div>
