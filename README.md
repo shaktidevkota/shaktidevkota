@@ -110,9 +110,9 @@ I'm a BSc.CSIT student at Bhaktapur Multiple Campus (Tribhuvan University), curr
 
 ## Right Now
 
-- Working through a 14-lab DBMS practical course, converting T-SQL labs to MySQL
+- Building out database projects with MySQL — schema design, queries, joins, real practice
 - Polishing my portfolio (contact form, project toggles, deployment cleanup)
-- Taking part in the OASIS InfoByte SIP internship
+- Getting into real-world projects and hands-on problem solving
 
 <br/>
 
