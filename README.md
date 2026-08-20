@@ -60,9 +60,29 @@ I'm a BSc.CSIT student at Bhaktapur Multiple Campus (Tribhuvan University), curr
 <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=E60000"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=E60000"/>
 <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=E60000"/>
+</td>
+</tr>
+<tr>
+<th align="left">Data Science & ML</th>
+<td>
 <img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=E60000"/>
 <img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=E60000"/>
 <img src="https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikit-learn&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/Keras-000000?style=flat-square&logo=keras&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=E60000"/>
+</td>
+</tr>
+<tr>
+<th align="left">Visualization & BI</th>
+<td>
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=flat-square&logo=python&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/Seaborn-000000?style=flat-square&logo=python&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/Chart.js-000000?style=flat-square&logo=chartdotjs&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoftexcel&logoColor=E60000"/>
 </td>
 </tr>
 <tr>
@@ -80,8 +100,8 @@ I'm a BSc.CSIT student at Bhaktapur Multiple Campus (Tribhuvan University), curr
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=E60000"/>
 <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=E60000"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=E60000"/>
-<img src="https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=E60000"/>
-<img src="https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoftexcel&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=E60000"/>
+<img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=E60000"/>
 </td>
 </tr>
 </table>
