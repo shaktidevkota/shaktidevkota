@@ -1,71 +1,163 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shakti%20Raj%20Devkota&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BSc.CSIT%20Student%20%7C%20Data%20Science%20Enthusiast%20%7C%20Bhaktapur%2C%20Nepal&descAlignY=55&descSize=18)
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&width=500&lines=Turning+raw+data+into+actionable+insights;Building+predictive+models+to+solve+problems;Exploring+data+analytics+%26+visualization;Always+learning%2C+always+building)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,50:2C5364,100:38BDF8&height=200&section=header&text=Shakti%20Raj%20Devkota&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20Data%20Engineer%20in%20training&descAlignY=62&descSize=17" width="100%"/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Cleaning+messy+data+into+usable+signal;Building+ETL+pipelines+%26+SQL+data+models;Training+ML+models+that+actually+ship;Turning+dashboards+into+decisions" alt="Typing SVG" />
+</a>
 
-## About Me
-
-I am **Shakti Raj Devkota**, a BSc.CSIT student from Bhaktapur, Nepal. I am passionate about uncovering patterns in data, building machine learning models, and translating complex datasets into actionable insights.
-
-- Currently focused on advanced **Data Analytics** and **Machine Learning**
-- Building data pipelines and models using **Python**, **R**, and **SQL**
-- Interested in collaborative, open-source, and data-driven projects
-- Improving statistical problem-solving and predictive modeling skills
-
----
-
-## Technical Skills
-
-### Languages
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Data Science & Machine Learning
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Data Visualization & Business Intelligence
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### Databases & Storage
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Cloud & Development Tools
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Additional Skills
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
----
-
-## Connect
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakti-devkota-9705b2316)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaktidevkota)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zyxy.co)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaktidevkota0@gmail.com)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer)
+</div>
+
+<br/>
+
+## Data Focus
+
+```
+role       : Data Analytics · Data Science · Data Engineering (learning path)
+currently  : BSc.CSIT, 4th Semester — Bhaktapur Multiple Campus (Tribhuvan University)
+based_in   : Bhaktapur, Nepal
+core_loop  : collect → clean → model → visualize → ship
+```
+
+I work across the full data lifecycle — from writing SQL to wrangle raw tables, to engineering features for ML models, to shipping dashboards people actually read. Currently deepening my **data engineering** side (pipelines, database design, ETL) alongside analytics and applied ML.
+
+<br/>
+
+## What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📊 Data Analytics**
+- End-to-end SQL analysis projects (joins, CTEs, window functions, views)
+- Power BI + Chart.js dashboards for real-world datasets
+- NEPSE (Nepal Stock Exchange) analytics dashboard — Flask + Chart.js + Power BI
+
+</td>
+<td width="50%" valign="top">
+
+**🧠 Data Science / ML**
+- Full data science bootcamp: EDA → Feature Engineering → ML → Deep Learning
+- Titanic end-to-end project (DataNest)
+- Football match prediction system — FastAPI + rolling ML pipeline (Random Forest, Logistic Regression)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🛠️ Data Engineering (in progress)**
+- Relational database design & practical labs (MySQL / T-SQL)
+- Building and debugging deployment pipelines (Render, Vercel)
+- Structuring data projects for reproducibility (feature modules, schema design)
+
+</td>
+<td width="50%" valign="top">
+
+**💻 Software & Tools**
+- React/Vite portfolio with real backend integrations (EmailJS, env-based config)
+- AVL Tree Visualizer, simulations (Pygame/Canvas)
+- Real-time chat app with Firebase (Firestore + Auth)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td valign="top" width="33%">
+
+**Data & ML**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**BI & Visualization**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td>
+<td valign="top" width="33%">
+
+**Tools & Cloud**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**Web**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=shaktidevkota&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktidevkota&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaktidevkota&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+## Currently Working On
+
+- 🔬 14-lab DBMS practicals — porting T-SQL to MySQL for use in MySQL Workbench
+- 🌐 Portfolio v2 (Vite + React) — contact form, project toggles, deployment polish
+- 🎓 OASIS InfoByte SIP internship — Data Science / Python / Data Analytics track
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,50:2C5364,100:38BDF8&height=100&section=footer"/>
+</div>
